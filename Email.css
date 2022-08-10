@@ -16,13 +16,13 @@ span{
 
 #body{
     margin: auto;
-    width: 80%;
+    width: 1080px;
     height: 1330px;
     background-color: rgb(238, 238, 238);
 }
 
 .newSeason{
-    width: 100%;
+    width: 1080px;
     height: 600px;
     background-color: rgb(255, 102, 0);
     position: relative;
@@ -67,7 +67,7 @@ span{
 
 .images {
     height: 400px;
-    width: 300px;
+
     display: inline-flex;
     margin: 25px
 
